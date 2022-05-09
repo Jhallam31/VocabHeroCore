@@ -1,0 +1,8 @@
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/bin/Debug/netstandard2.0/VocabHero.Models.deps.json
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/bin/Debug/netstandard2.0/VocabHero.Models.dll
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/bin/Debug/netstandard2.0/VocabHero.Models.pdb
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.csprojAssemblyReference.cache
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.AssemblyInfoInputs.cache
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.AssemblyInfo.cs
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.dll
+/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.pdb

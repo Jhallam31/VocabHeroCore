@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\VocabHero.Services\VocabHero.Services.csproj" />
+    <ProjectReference Include="..\VocabHero.Models\VocabHero.Models.csproj" />
+    <ProjectReference Include="..\VocabHero.Data\VocabHero.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>
