@@ -73,3 +73,17 @@ C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\net
 C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHeroCore.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
