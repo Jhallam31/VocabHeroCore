@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6M+cR1/R7CAtLiUhlZOe4D10qxcPxoo+QxG198J4F7kbZIeVrKAHvW5AIzWoWPij8HzUqG0USHaGmshdhUk1ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jenna\\Documents\\CoreVH\\VocabHeroCore\\VocabHero.Models\\VocabHero.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jenna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jenna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

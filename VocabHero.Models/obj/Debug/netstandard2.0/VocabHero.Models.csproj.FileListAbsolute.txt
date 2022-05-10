@@ -6,3 +6,13 @@
 /Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.AssemblyInfo.cs
 /Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.dll
 /Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/Debug/netstandard2.0/VocabHero.Models.pdb
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\bin\Debug\netstandard2.0\VocabHero.Models.deps.json
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\bin\Debug\netstandard2.0\VocabHero.Models.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\bin\Debug\netstandard2.0\VocabHero.Models.pdb
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.csproj.AssemblyReference.cache
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.AssemblyInfoInputs.cache
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.AssemblyInfo.cs
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.csproj.CoreCompileInputs.cache
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.dll
+C:\Users\jenna\Documents\CoreVH\VocabHeroCore\VocabHero.Models\obj\Debug\netstandard2.0\VocabHero.Models.pdb

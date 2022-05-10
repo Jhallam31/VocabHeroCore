@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/VocabHero.Models.csproj": {}
+    "C:\\Users\\jenna\\Documents\\CoreVH\\VocabHeroCore\\VocabHero.Models\\VocabHero.Models.csproj": {}
   },
   "projects": {
-    "/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/VocabHero.Models.csproj": {
+    "C:\\Users\\jenna\\Documents\\CoreVH\\VocabHeroCore\\VocabHero.Models\\VocabHero.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/VocabHero.Models.csproj",
+        "projectUniqueName": "C:\\Users\\jenna\\Documents\\CoreVH\\VocabHeroCore\\VocabHero.Models\\VocabHero.Models.csproj",
         "projectName": "VocabHero.Models",
-        "projectPath": "/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/VocabHero.Models.csproj",
-        "packagesPath": "/Users/jennahallam/.nuget/packages/",
-        "outputPath": "/Users/jennahallam/Documents/Projects/VocabHeroCore/VocabHero.Models/obj/",
+        "projectPath": "C:\\Users\\jenna\\Documents\\CoreVH\\VocabHeroCore\\VocabHero.Models\\VocabHero.Models.csproj",
+        "packagesPath": "C:\\Users\\jenna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenna\\Documents\\CoreVH\\VocabHeroCore\\VocabHero.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jennahallam/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jenna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -35,6 +38,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -53,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/jennahallam/node_modules/dotnet-sdk-3.1-osx-x64/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using VocabHero.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace VocabHeroCore.WebAPI
 {
@@ -25,6 +27,8 @@ namespace VocabHeroCore.WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connectionString = Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<ApplicationDbContext>(options=> options.UseSqlServer(connectionString));
             services.AddControllers();
         }
 
@@ -34,8 +38,13 @@ namespace VocabHeroCore.WebAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger", "VocabHero API V1");
+                c.RoutePrefix = "";
+            });
             }
-
+            
             app.UseHttpsRedirection();
 
             app.UseRouting();
